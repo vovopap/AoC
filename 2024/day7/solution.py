@@ -1,6 +1,5 @@
 import sys
 import os
-from functools import cmp_to_key
 
 # https://adventofcode.com/2024/day/7
 
