@@ -1,7 +1,7 @@
 import sys
 import os
 
-# https://adventofcode.com/2024/day/10
+# https://adventofcode.com/2024/day/11
 
 def partOne():
   nums = parseInput()
